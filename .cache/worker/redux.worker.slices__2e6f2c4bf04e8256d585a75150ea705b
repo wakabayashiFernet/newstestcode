@@ -1,0 +1,37 @@
+ˇo"
+components;"1C:/Users/wakabayashi/news-test/src/pages/index.jso"componentPath"1C:/Users/wakabayashi/news-test/src/pages/index.js"componentChunkName"component---src-pages-index-js"query"ùquery pageCUserswakabayashinewsTestsrcpagesindexJs3168353767 {
+  allMicrocmsNews {
+    edges {
+      node {
+        newsId
+        title
+      }
+    }
+  }
+}
+"pages'"/,"isInBootstrapT"
+serverDataF"configF{"FC:/Users/wakabayashi/news-test/src/pages/news/{microcmsNews.newsId}.jso"componentPath"FC:/Users/wakabayashi/news-test/src/pages/news/{microcmsNews.newsId}.js"componentChunkName"3component---src-pages-news-microcms-news-news-id-js"query"¬query pageCUserswakabayashinewsTestsrcpagesnewsmicrocmsNewsNewsIdJs3428130233($id: String!) {
+  microcmsNews(id: {eq: $id}) {
+    newsId
+    title
+    body
+    writer {
+      writer
+    }
+  }
+}
+"pages'"/news/x6mouutme/"/news/jr5fs40jo/"/news/829urzkmw/"/news/h61e0tm7l4y/"/news/7n0zf5mi9/,"isInBootstrapT"
+serverDataF"configF{:"staticQueryComponents;"sq--src-components-seo-jso"name"SEO"componentPath"4C:/Users/wakabayashi/news-test/src/components/seo.js"id"sq--src-components-seo-js"query"Àquery SEO {
+  site {
+    siteMetadata {
+      defaultTitle: title
+      titleTemplate
+      defaultDescription: description
+      siteUrl: url
+      defaultImage: image
+      twitterUsername
+    }
+  }
+}
+"hash"
+4202924991{:{

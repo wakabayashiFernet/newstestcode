@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_hello_world=self.webpackChunkgatsby_starter_hello_world||[]).push([[621],{4787:function(e,t,l){l.r(t);var r=l(7294),a=l(8678),n=l(262);t.default=function(e){var t=e.data;return r.createElement(a.Z,null,r.createElement(n.Z,{title:t.microcmsNews.title}),r.createElement("h1",null,t.microcmsNews.title),r.createElement("div",{dangerouslySetInnerHTML:{__html:""+t.microcmsNews.body}}))}}}]);
+//# sourceMappingURL=component---src-pages-news-microcms-news-news-id-js-11f0409fd90c3d2d049d.js.map
